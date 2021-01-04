@@ -5,6 +5,7 @@ We will look at two different strategies for maintaining the binary search tree:
  - Inserting keys in a random order without rebalancing. (RandomizedTreeSet)
  <br>
 and two strategies for extracting the elements in sorted order:
+<br>
  - Thinking of a binary search tree as a priority queue and repeatedly calling removeMin().
  - Using an in-order traversal of the tree.
 
