@@ -1,1 +1,1 @@
-TreeSorter - Code up the two approaches for extracting elements in TreeSorter.java (an inOrder( ) method is already implemented in TreeSet.java). In the same file, write a tester method that compares the four approaches on a large randomly shuffled list (e.g., of 2,000,000 elements)
+TreeSorter - Code up the two approaches for extracting elements in TreeSorter.java (an inOrder( ) method is already implemented in TreeSet.java). In the same file, write a tester method that compares the four approaches on a large randomly shuffled list (e.g., of 2,000,000 elements).
